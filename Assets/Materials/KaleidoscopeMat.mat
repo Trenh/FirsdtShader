@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Infinite 2
+  m_Name: KaleidoscopeMat
   m_Shader: {fileID: 4800000, guid: 876a5d55471aa4e41b9afdfb5a131d21, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 9d573d8b7eed24c4ea73aeb15ee2d22f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6e52b5bb25feb8a438c43ec83380224c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -71,7 +71,7 @@ Material:
     - _Section: 60
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed: 15
+    - _Speed: 30
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
